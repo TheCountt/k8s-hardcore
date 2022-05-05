@@ -2,7 +2,7 @@ package.json
 package-lock.json
 node_modules
 terraform*
-.terraform
+.terraform*
 terraform.tfstate*
 helm-3.6.3
 v3.6.3.tar.gz
